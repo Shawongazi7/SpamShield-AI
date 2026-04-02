@@ -1,0 +1,81 @@
+label,subject,body
+spam,Congratulations! You’ve won a $500 Amazon Gift Card!,"Dear user, your email has been selected as a lucky winner. Click below to claim your reward immediately. Offer expires in 24 hours!"
+spam,Urgent: Verify your PayPal account now!,We detected unusual activity in your PayPal account. Please confirm your details to avoid suspension.
+spam,Get rich fast with our secret trading system,"Turn $100 into $10,000 in just one week! Join our crypto investment program today."
+spam,Final notice — your car insurance expired!,Renew your insurance today to avoid penalties. Click here to renew now.
+spam,Work from home and earn $500 daily!,We’re hiring! No skills required. Start earning from home today. Sign up now!
+spam,Update your bank details immediately,Your account will be closed if not verified within 12 hours. Please log in to confirm.
+spam,Your parcel is waiting for delivery confirmation,We couldn’t deliver your package. Click to reschedule delivery and avoid return.
+spam,Increase your credit score in 7 days!,Join our program to fix your bad credit instantly. 100% guaranteed approval.
+spam,You’ve been selected for a free iPhone 15,Be among the first 10 people to claim this exclusive offer. Confirm shipment now.
+spam,Make your love life better 💕,Get our new supplement now with 50% off. Satisfaction guaranteed!
+spam,Claim your $1000 cashback reward!,Complete our short survey to unlock your instant $1000 cashback.
+spam,Limited-time Bitcoin giveaway,Public giveaway — send 0.01 BTC and receive 0.1 BTC instantly!
+spam,Exclusive deal: 90% off designer watches,Buy premium watches for just $29 today only. Free worldwide shipping.
+spam,Verify your streaming account immediately,Your subscription payment failed. Click here to update your card details now.
+spam,Don’t miss this limited crypto offer!,Our AI bot guarantees 30% daily returns. Invest today before slots run out.
+spam,Your loan has been pre-approved,"Congratulations! You’re eligible for a $10,000 loan. Apply in 2 minutes."
+spam,Confirm your email to receive a free vacation,Win a 7-day trip to Maldives. Confirm your details to claim now.
+spam,Urgent action required: Account suspension,Your email account will be locked within 6 hours. Click to restore access.
+spam,Unlock exclusive adult content,Access premium content for free. Must be 18+. Limited time only.
+spam,Boost your website traffic instantly,"Get 10,000 visitors in 24 hours. Improve your SEO ranking today."
+ham,Meeting rescheduled to Monday,"Hi team, the project status meeting has been moved to Monday at 10 AM. — Alex"
+ham,New device sign-in to your account,"You signed in on a new device. If this was you, no action is needed."
+ham,Invoice for your recent purchase,Thank you for your order. Attached is the invoice for your recent purchase.
+ham,Re: Assignment submission deadline,"Professor, I’ve attached my final report. Please let me know if any changes are needed."
+ham,LinkedIn connection requests waiting,You have new connection requests waiting. Visit your LinkedIn to view them.
+ham,Gym membership renewal reminder,Your gym membership will expire soon. Renew now to continue access.
+ham,Flight itinerary confirmed,Your flight has been successfully booked. Check-in opens 24 hours before departure.
+ham,Daily stand-up meeting notes,"Tasks today: finalize API endpoints, fix login bug, test image upload."
+ham,Your parcel has been delivered,Your recent order has been successfully delivered. Thank you for shopping with us.
+ham,Birthday party invitation 🎉,We’re throwing a birthday party this Friday. Hope you can come!
+ham,Reminder: doctor appointment tomorrow,Your appointment is scheduled for 3:00 PM at the clinic.
+ham,Salary credited for October,"Dear employee, your salary for October has been successfully transferred."
+ham,Class notice: midterm postponed,The midterm exam has been postponed to next Thursday.
+ham,Re: Project updates,I’ve pushed the new version to GitHub with recent integrations completed.
+ham,Job application received,Thank you for applying. We’ll review your application and get back to you.
+ham,Reminder: utility bill due soon,Your bill is due on the 25th. Pay online to avoid service interruption.
+ham,Password changed successfully,Your account password was updated recently.
+ham,Lunch plan tomorrow?,Want to grab lunch after class tomorrow? — Friend
+ham,Monthly newsletter — October edition,"Check out the latest updates, events and news."
+ham,Feedback request,Please take a moment to rate your recent experience with our support team.
+spam,Debit card declined — update your details,Your debit card was declined. Update your billing details immediately to avoid service interruption.
+spam,Click to reveal your surprise reward!,You have a surprise reward waiting. Click now to reveal and claim your prize.
+spam,Payment failed: Update your payment method,We were unable to process your recent payment. Please update your payment method to continue service.
+spam,Order invoice attached — download now,An invoice for your recent order is attached. Download the file to view details.
+spam,Congratulations! You've won the lottery,You won the international lottery. Provide your details to claim the winnings.
+spam,Urgent: Tax refund pending,You are eligible for a tax refund. Click the link and submit your bank details to receive payment.
+spam,Exclusive: Work-at-home typing jobs,Earn $300 daily from home typing. Start immediately with no experience required.
+spam,Your social media account is compromised,We detected suspicious activity. Log in now to secure your account.
+spam,Free VPN download — protect your privacy,Download our VPN for free access to blocked content. Limited time only.
+spam,Open immediately: Important legal notice,This is a legal notice regarding your property. Open the attachment to view details.
+spam,Hot singles in your area want to meet you,Connect with local singles now. Sign up to start chatting immediately.
+spam,Recover deleted files with our tool,Recover all your lost files in minutes. Download our recovery software now.
+spam,Act now: Discount coupon inside,Open this email to get a discount coupon for top stores. Limited codes available.
+spam,Investment opportunity — guaranteed returns,Invest with us and get guaranteed monthly returns. Limited seats available.
+spam,Security alert: Confirm your identity,Confirm your identity now to prevent account restrictions.
+spam,Get paid for watching videos,Earn money by watching short videos daily. Sign up and start earning instantly.
+spam,Urgent: Bank debit card issue,There was an issue with your debit card. Click here to resolve and avoid charges.
+spam,You have a voicemail — listen now,You received a new voicemail. Click to listen to the message.
+spam,Exclusive factory direct electronics sale,Top electronics at rock-bottom prices. Limited stock — buy now.
+spam,Claim your referral bonus now,You have an unclaimed referral bonus. Click to claim your reward.
+ham,Order confirmation — Thank you for your purchase,Thank you for your order. Your payment has been received and your items will be shipped soon.
+ham,Shipping update: Your order is on the way,Good news — your package has shipped. Track your delivery with the provided link.
+ham,Password reset request,"We received a request to reset your password. If this was you, follow the link. If not, ignore this message."
+ham,Payment received — Thank you,We have received your payment. Thank you for your purchase.
+ham,Appointment confirmation,Your appointment is confirmed for the selected date and time.
+ham,Subscription confirmation,Welcome! Your subscription is now active. Manage preferences in your account.
+ham,Support ticket update,Your support ticket has been updated. Our team will respond shortly.
+ham,Event reminder: Webinar tomorrow,Reminder: The webinar starts tomorrow at 4 PM. Join via the provided link.
+ham,Order cancellation confirmed,Your order has been cancelled and a refund will be processed.
+ham,Warranty registration successful,Your product warranty has been registered successfully.
+ham,Official notice: Policy update,We updated our privacy policy. Please review the changes in your account settings.
+ham,Travel e-ticket,Your e-ticket for upcoming travel is attached. Please arrive early for check-in.
+ham,Class schedule update,The class schedule has been updated for next semester. Check the online portal for details.
+ham,Performance review scheduled,Your annual performance review is scheduled for next Monday.
+ham,Conference registration confirmed,Your registration for the conference has been confirmed. See you there!
+ham,Order delivery delayed,Your delivery is delayed due to weather. We’ll notify you when it ships.
+ham,Bank transaction alert,"A debit of $45.00 was made from your account on 10/20. If this wasn't you, contact your bank."
+ham,Course enrollment successful,You have been successfully enrolled in the online course.
+ham,Meeting invitation: Project kickoff,Please join the meeting for the project kickoff next Tuesday at 9 AM.
+ham,Support satisfaction survey,Thanks for contacting support. Please rate your experience to help us improve.
