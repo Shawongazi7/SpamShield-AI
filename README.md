@@ -10,7 +10,7 @@ This project represents my hands-on exploration of building a production-ready s
 
 ## 📊 System Architecture
 
-![Spam Detection System Workflow](spam pipeline.png)
+![Spam Detection System Workflow](spam_pipeline.png)
 
 This workflow diagram gives reviewers a quick visual of the full pipeline, from raw email input through preprocessing, TF-IDF feature extraction, model training, evaluation, and final prediction.
 
